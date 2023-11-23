@@ -5,3 +5,5 @@ K-means Clustering - https://colab.research.google.com/drive/1qWRoi3Jt4AZ9rncnIj
 K-Medoid Clustering - https://colab.research.google.com/drive/1nlzAeD6yzr4O8IE45mEO1P4Gvp44gzv2#scrollTo=CnJ6tE_wpmTZ  
 
 Key Findings - https://colab.research.google.com/drive/10Y75IzXObyWogh9WRHzwrqukQ-h0JhpU#scrollTo=u1OQ67cMh6jS
+
+Presentation - https://docs.google.com/presentation/d/1uxMbAL5BcDWM-r0e-xhFK0gGhUDSbQ6J4nIlITNCW3o/edit?usp=sharing
